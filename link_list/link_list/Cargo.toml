@@ -1,0 +1,5 @@
+[package]
+
+name = "link_list"
+version = "0.0.1"
+authors = ["Stephen Becker IV <github@deathbyescalator.com>"]
