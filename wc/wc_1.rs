@@ -38,7 +38,7 @@ fn process_files(files: &Vec<String>, options: HashSet<&str>){
             Err(why) => panic!("couldn't read {} - {}", file_name, why),
             Ok(d) => d,
         };
-        println!("{}", s);
+        //println!("{}", s);
         let w: u64 = s.split_whitespace().count() as u64;
         let l: u64 = s.lines().count() as u64;
         let b: u64 = s.into_bytes().len() as u64;
