@@ -1,0 +1,2 @@
+[dependencies]
+getopts = "0.2"
