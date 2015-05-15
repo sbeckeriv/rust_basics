@@ -1,4 +1,5 @@
 //rustc 1.1.0-nightly (c4b23aec4 2015-04-29) (built 2015-04-28)
+//http://git.savannah.gnu.org/cgit/coreutils.git/tree/src/wc.c#n195
 #![feature(convert)]
 #![feature(rustc_private)]
 #![feature(collections)]
